@@ -14,7 +14,7 @@ import UserProfile from './components/UserProfile'
 import AuthModal from './components/auth/AuthModal'
 import AuthGuard from './components/auth/AuthGuard'
 import GeminiChatbot from './components/GeminiChatbot'
-import AdminPanel from './pages/AdminPanel'
+import AdminPanel from './Pages/AdminPanel'
 import { analyzeImageWithGemini, testGeminiConnection } from './services/gemini'
 import { DetectedIssue, IssueReport } from './types'
 import { 
